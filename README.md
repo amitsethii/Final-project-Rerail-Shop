@@ -4,7 +4,7 @@
 ![Screenshot (828)](https://user-images.githubusercontent.com/49728020/121767314-180c3f00-cb75-11eb-9002-7badcc67a054.png)
 ![Screenshot (829)](https://user-images.githubusercontent.com/49728020/121767315-18a4d580-cb75-11eb-9971-e944fbaa13f3.png)
 # Retail-Shop
-Retail Shop - Springboot , MVC ,jstx , jsp , bootstrap , spring , java ,javascript.
+Retail Shop - Springboot , MVC , jsp , java.
 
 usename-amit
 pass-amit123
